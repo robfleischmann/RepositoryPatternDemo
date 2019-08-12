@@ -4,7 +4,7 @@ A demo of my preferred layout for the repository pattern
 I wanted to find a organization for the repository pattern that would read easy for other developers to understand, as using this pattern is very powerful and leads to better coding practices.
 
 Thanks to Ladislav Mrnka from stackoverflow, here is the format I prefer:
-
+```
 Solution
   -- Common
        - Shared features used accross all layers
@@ -24,5 +24,5 @@ Solution
        - Controllers
        - Views
        - ViewModels
-
+```
 Source thread: https://stackoverflow.com/a/5283973/4429355
